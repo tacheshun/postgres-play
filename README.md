@@ -4,3 +4,4 @@ A privacy-first contextual stress & recovery app for Apple Watch with real-time 
 	•	SwiftUI everywhere; no UIKit unless absolutely necessary.
 	•	Core ML Tools to quantize tiny models. Accelerate for simple DSP if needed.
 	•	Unit tests for feature extraction and fusion logic; UITests for watch flows.
+
